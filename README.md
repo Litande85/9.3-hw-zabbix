@@ -93,7 +93,7 @@
 
 [/terraform](terraform)
 
-Установка, включая настройку web и автообнаружение хостов заняла менее 15 минут.
+Установка, включая создание 3 машин и установку zabbix-server и zabbix-agent, настройку web и автообнаружение хостов заняла менее 15 минут.
 
 **Результат**
 
@@ -101,8 +101,9 @@
 
 ![vm](img/img011623.png)
 
-![discovery](img/img011937.png)
+![discovery](img/img012032.png)
 
-![hosts](img/img012032.png)
+![hosts](img/img011937.png)
+
 
 
