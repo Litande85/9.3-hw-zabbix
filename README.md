@@ -86,9 +86,14 @@
 
 ### *<a name="9">Ответ к Заданию 9</a>*
 
-Вместо vagrant использовала терраформ, приложила файлы
+Вместо vagrant использовала [терраформ](terraform/main.tf).
+Создаются и устанавливаются одновременно zabbix-agent c помощью [zabbix-agent.sh](terraform/zabbix-agent.sh) и zabbix-server с помощью [zabbix-server.sh](terraform/zabbix-server.sh).
+
+Приложила все файлы файлы
 
 [/terraform](terraform)
+
+Установка, включая настройку web и автообнаружение хостов заняла менее 15 минут.
 
 **Результат**
 
