@@ -85,3 +85,19 @@
 *Приложите в Git файлы Vagrantfile и zabbix-agent.sh*
 
 ### *<a name="9">Ответ к Заданию 9</a>*
+
+Вместо vagrant использовала терраформ, приложила файлы
+
+[/terraform](terraform)
+
+**Результат**
+
+![create](img/img1)
+
+![vm](img/img011623.png)
+
+![discovery](img/img011937.png)
+
+![hosts](img/img012032.png)
+
+
